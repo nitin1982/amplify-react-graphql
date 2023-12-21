@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3notesbynitin",
+  "bucketName": "notes-by-nitin",
+  "policyUUID": "f040a84d",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
